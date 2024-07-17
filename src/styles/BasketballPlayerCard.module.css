@@ -1,0 +1,30 @@
+.playerCard {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+    height: fit-content;
+   
+    
+}
+
+.playerImage{
+    position: unset;
+}
+
+.playerInfo {
+    padding: 16px;
+    text-align: center;
+    position: relative;
+    margin-top: 8px;
+    
+}
+
+.playerStats {
+    margin-top: 12px;
+    text-align: left;
+}
+
+.playerStats p {
+    margin: 4px 0;
+}
