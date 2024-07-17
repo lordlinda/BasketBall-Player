@@ -9,5 +9,6 @@ This is a project that displays basketball player cards using TypeScript and CSS
 
 ## Getting Started
 
-Open it in your code editor of Choice
-npm run start
+- Open it in your code editor of Choice
+- npm install
+- npm run start
